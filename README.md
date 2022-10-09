@@ -1,4 +1,8 @@
 ### Oiii! Meu nome é Eliza Rocha👋
+  - Tenho 19 anos
+  - Atuo como desenvolvedora Front-End ReactJS👩🏻‍💻
+  - Sou formada pelo CEFET-MG em técnica em informática📚
+
 <div align="center">
   <a href="https://github.com/ElizaRocha">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ElizaRocha&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -19,5 +23,4 @@
   <a href = "mailto:elizarochasn@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/elizarocha" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-   ![Snake animation](https://github.com/ElizaRocha/ElizaRocha/blob/output/github-contribution-grid-snake.svg)
 </div>
