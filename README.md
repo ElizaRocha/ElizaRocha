@@ -1,5 +1,5 @@
 ### Oiii! Meu nome é Eliza Rocha👋
-  - Tenho 19 anos
+  - Tenho 20 anos
   - Atuo como desenvolvedora Front-End ReactJS👩🏻‍💻
   - Sou formada pelo CEFET-MG em técnica em informática📚
 
